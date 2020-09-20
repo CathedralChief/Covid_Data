@@ -1,0 +1,60 @@
+Stanford COVID dashboards
+This page provides various daily and weekly updates about COVID surveillance testing, Health Check submissions, isolation, and prevalence in the Stanford community. We provide recent and historic metrics for both students and employees since the onset of COVID with comparative measures to the surrounding area.
+
+As of Sept. 14, 2020, over the last two weeks more than 8000 student tests have been completed/performed with 2 positive test results. Also, over the last two weeks, more than 900 Stanford-facilitated surveillance tests were completed/performed for faculty, staff, and post-doctoral scholars with 0 positive test results. The following illustrations provide additional details, pre and post-initiation of surveillance testing. 
+
+Stanford’s surveillance testing is provided weekly for graduate students who are at Stanford, as well as undergraduates approved to be living on campus for special circumstances; details of the testing program are here. For faculty, staff and postdoctoral scholars who are working on campus, surveillance testing is voluntary but is encouraged on a weekly basis; eligibility and program details are here. Participants can expect to receive test results within 24-72 hours.
+
+Students
+Beginning Aug. 31, 2020, the display below includes the results of Stanford’s on-campus COVID screening program for graduate and undergraduate students, administered by Verily. Details of this program are available here. In addition, across all time periods, the data below reflect the results of student tests for COVID undertaken or facilitated by Vaden Health Center, as well as the results of student-athlete surveillance testing for COVID.
+
+Stanford student metric definitions
+Total Health Check surveys reflects self-reports of daily surveillance status using the university’s Health Check app since May, 2020. This includes reporting of symptoms, temperature monitoring, exposures, and recent travel history.
+Total confirmed positive cases reflects a cumulative measure of the number of Stanford students living on, or near campus and enrolled or affiliated when they were diagnosed with COVID. This dates back to March, 2020 and reflects test results from any testing provider, not just testing provided by the university as shown in the graphical display above.
+Current cases in isolation on campus reflects the number of students currently in isolation on the Stanford campus following a positive COVID test result.
+
+Faculty, staff and postdoctoral scholars
+Beginning Aug. 26, 2020, the display below shows the results of Stanford’s on-campus COVID surveillance testing program for faculty, staff and postdoctoral scholars, administered by Color. Details on this program are available here. In addition, across all time periods, this display includes the results of testing of faculty, staff and postdoctoral scholars provided or facilitated by the Stanford University Occupational Health Center. The data do not include testing performed by other providers.
+
+An important component of Stanford's pandemic response
+With the volume of testing we are ramping up, and with the ongoing supply-chain challenges that have resulted from the pandemic, the university has identified two testing systems that have FDA emergency use authorization and that utilize different supply chains. Our medical experts have reviewed the testing methodologies and are confident in their rigor.
+
+Verily Life Sciences is conducting COVID-19 screening for students. This will include new-to-campus testing and return-from-travel testing, as well as surveillance of COVID-19 prevalence in our student community. This program is for asymptomatic individuals. Students with symptoms of COVID-19 should contact Vaden Health Services or another healthcare provider for evaluation and testing.
+
+Testing is an important component of Stanford’s pandemic response but is not a substitute for prevention and self-care measures such as face coverings, physical distancing, hand washing, and surface hygiene. We hope that these continuing protocols and the plan for COVID screening will, together, provide support and confidence to all of you who will be coming to campus this autumn. 
+
+The Verily testing site is McCaw Hall in the Arrillaga Alumni Center (view a map here). Please enter directly into McCaw Hall from Galvez Street, rather than the alumni center lobby. Entrance to exit, the test procedure for most students should take less than five minutes. Parking is available but limited; consider biking or walking. The university has placed additional bike racks along Galvez, near Memorial Way.
+
+Initial operating hours will be Monday through Friday, 8 a.m. to 4 p.m., and Saturday, 10 a.m. to 2 p.m. Hours might be altered as the quarter unfolds, depending on utilization and other factors. The testing site will be closed on Labor Day, September 7.
+
+The test involves a mid-turbinate nasal swab that is performed by the student, while being observed by a healthcare professional. Analysis is by RT-PCR, performed at a local laboratory operated by Verily. The majority of results will be available within 48 hours, but may take up to 72 hours. 
+
+Students will be notified by email from Verily and PWN Health (covid19@pwnhealth.com) when a test result is available. PWN Health is Verily’s healthcare partner. The test result can be viewed by logging into healthy.verily.com. 
+ 
+
+Important to know
+There is no cost to students to participate in this testing program.
+
+This program does not use health insurance information.
+
+Student-athletes, Hopkins Marine Station students, and some medical students will use different protocols and should follow the instructions of their respective administrative or clinical advisors.
+
+Asymptomatic students in quarantine should continue testing through this program.
+
+Students with symptoms of COVID-19 should contact Vaden Health Services or another healthcare provider for evaluation and testing.
+
+Optional new-to-campus and return-from-travel testing is available to partners/spouses of students who will be residing in Stanford housing assigned by Residential & Dining Enterprises (R&DE). Students should contact the Graduate Life Office (GLO) for a referral to this spouse/partner testing resource. This will be at no cost to the student or spouse/partner. Note that we are not able to conduct pediatric testing through the campus testing program.
+
+An FAQ page for students is available here. 
+
+
+Testing frequency and results
+Initially, students will be tested weekly, and will receive email reminders from Verily to schedule appointments. Over time, the university may adjust the testing frequency, based on the prevalence of COVID-19 in our community. If desired, students can use Verily’s web tool to schedule one  additional test each week. 
+
+As mentioned above, students will be notified by email from Verily and PWN Health (covid19@pwnhealth.com) when a test result is available. In addition, PWN Health will contact a student with positive test results by telephone within 24 hours. 
+ 
+
+Exposure notification and isolation
+Vaden will follow up with the student for clinical care and exposure notification. Students will be offered a confirmatory test conducted by Vaden and processed through the Stanford Health Care Virology Lab. Students will need to start in isolation based on the initial positive result from Verily. 
+
+To coordinate isolation housing and meal delivery service, the name of a student with a positive test will be shared with campus partners, such as Residence Deans, Graduate Life Office (GLO) deans and R&DE, on a confidential, need-to-know basis. Meal delivery will be at no charge to students residing on campus.
