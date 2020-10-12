@@ -1,6 +1,7 @@
 #%%
 import csv
 import ntpath
+import os
 # %%
 
 safety_dict = {}
@@ -17,7 +18,7 @@ with open('words.csv', 'r') as values:
 values.close()
 # %%
 
-ntpath.basename('/Users/benwalsh/Dropbox/Python Stuff/Covid Project/College_Responses/')
+ntpath.basename('../College_Responses/')
 
 def path_leaf(path):
     head, tail = ntpath.split(path)
@@ -29,7 +30,7 @@ school_safe_values = {}
 school_act_values = {}
 school_safe_count = {}
 school_act_count = {}
-responses = '/Users/benwalsh/Dropbox/Python Stuff/Covid Project/College_Responses/'
+responses = '../College_Responses/'
 
 state_files = []
 words = []
@@ -77,23 +78,22 @@ for college in state_files:
             school_safe_count[school] += 1
         if active_value != 0:
             school_act_count[school] += 1
-            
+
 # %%
 school_norm_act_dict = {}
 for school in school_act_values:
     value = school_act_values[school]
-    for college in school_act_count:
-        count = school_act_count[college]
-        norm_value = round(value/count, 4)
-        school_norm_act_dict[school] = norm_value
+    count = school_act_count[school]
+    count = school_act_count[college]
+    norm_value = round(value/count, 4)
+    school_norm_act_dict[school] = norm_value
 
 school_norm_safe_dict = {}
 for school in school_safe_values:
     value = school_safe_values[school]
-    for college in school_safe_count:
-        count = school_safe_count[college]
-        norm_value = round(value/count, 4)
-        school_norm_safe_dict[school] = norm_value
+    count = school_safe_count[school]
+    norm_value = round(value/count, 4)
+    school_norm_safe_dict[school] = norm_value
 # %%
 print(school_norm_act_dict)
 print(school_norm_safe_dict)
