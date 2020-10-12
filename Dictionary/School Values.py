@@ -84,7 +84,6 @@ school_norm_act_dict = {}
 for school in school_act_values:
     value = school_act_values[school]
     count = school_act_count[school]
-    count = school_act_count[college]
     norm_value = round(value/count, 4)
     school_norm_act_dict[school] = norm_value
 
@@ -97,4 +96,7 @@ for school in school_safe_values:
 # %%
 print(school_norm_act_dict)
 print(school_norm_safe_dict)
+# %%
+for i in school_norm_act_dict:
+    print(i, ': ', school_norm_act_dict[i])
 # %%
