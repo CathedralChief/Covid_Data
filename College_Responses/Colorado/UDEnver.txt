@@ -1,0 +1,267 @@
+The University of Denver’s vision is to be a great private university dedicated to the public good.
+The unprecedented challenges of COVID-19 provide us with an opportunity to lean deeply into
+our vision – taking precautions to care for our own as well as one another’s health and well-being
+while we support advancement of the public good through education, research, scholarship,
+creative work, and service. For the last four months the University worked to maintain a clear
+understanding of public health orders issued as a result of the pandemic and to articulate and
+manifest both individual and collective responsibility on our campus. In this comprehensive
+document, we provide our fall return to campus framework produced after very careful
+consideration and deliberation by 10 Task Forces, multiple working groups, and individuals with
+relevant expertise charged with different dimensions of this ambitious undertaking. This living
+document will be regularly updated as we work alongside and are guided by our health partner,
+scientific leaders, and federal, state, and local public health guidance and state and local public
+health orders. We look forward to a safe and healthy return of on-campus living, academics and
+co-curricular experiences for our students, faculty and staff this fall.
+Guiding Principles & Values
+The University of Denver is committed to a proactive, inclusive, and supportive response to
+COVID-19 that honors our vision as a private university dedicated to the public good. Beginning
+with our first decision to recall students who were studying abroad and moving through lifting
+finals and then spring courses online, we have maintained a commitment to the safety of our
+students, staff, and faculty, to excellence in the educational experience, and to our community’s
+health and wellbeing. We moved quickly and effectively online – maintaining many aspects of our
+high-touch teacher-scholar model -- with the deep engagement of faculty and students. Because
+an in-person class experience resonates with our community and core mission, we have worked
+diligently to prepare the community to return in the fall with adaptations that prioritize health,
+safety, and well-being while on campus. We continue to refine these plans with the thoughtful
+input of our task forces, the deep engagement with scientific and industry insights, with the
+guidance of our health partner, National Jewish Health, in collaboration with other higher
+education institutions in Colorado, and following federal, state, and local public health guidance
+and state and local public health orders. The most up-to-date information, additional supporting
+documentation, and FAQs which are broadly relevant can be found at the University’s COVID-19
+website, and information specific to our internal community can be found on our COVID-19
+Portfolio page.
+Health, Safety, & Wellbeing
+While it is not within the University’s power to prevent cases of COVID-19, DU community
+members can help limit the number of potential cases and help control any potential spread by
+supporting the University’s efforts via careful and frequent symptom monitoring, manual and
+digital contact tracing, testing and prevention practices and behaviors.
+9
+Health Partner
+The University is establishing a partnership with National Jewish Health, a not-for-profit academic
+health center and the #1 ranked respiratory hospital in the U.S. After a lengthy review process,
+we selected NJH to serve as our strategic partner as we develop, refine, and deliver monitoring,
+testing, isolation, and contact tracing protocols for the DU campus. Founded 120 years ago, NJH
+today is the only facility in the world dedicated exclusively to groundbreaking medical research
+and the treatment of children and adults with respiratory, cardiac, immune and related disorders.
+The expertise that NJH brings to the DU partnership is broad and specific to our needs. They
+have established new acute respiratory clinics and respiratory recovery clinics for COVID‐19
+patients and have launched new lines of investigation to understand the mechanisms of the
+disease and the frequency of and risk factors for transmission. NJH’s world‐renowned
+Occupational Pulmonary Medicine Program addressing exposure-related diseases, their
+Respiratory Infectious Disease Program that specializes in diagnosis and treatment of pulmonary
+pathogens, and their Advanced Diagnostic Laboratory, have established an approach to assist
+with “back to work” programs for organizations across Colorado and around the country. We also
+look forward to an opportunity to expand clinical, research, and academic program collaborations
+between our two institutions that are already underway.
+In addition, NJH has a range of affiliations with other health care systems and hospitals in our
+region that rely on NJH’s world-class expertise for critical care assistance. We are proud to have
+National Jewish Health as our partner to help guide us through this pandemic in the safest and
+most effective way.
+Testing
+We will be partnering with National Jewish Health to flexibly apply the best COVID-19 testing
+type, population, and frequency for the safe return of DU’s students, faculty, and staff to campus.
+This very dynamic research and clinical environment provides a number of options to consider,
+and those will be vetted thoroughly and implemented with the most up-to-date medical and
+epidemiological expertise available.
+Contact Tracing
+Effectively limiting spread from any potential COVID-19 cases requires aggressive contact tracing
+following a reported positive SARS-CoV-2 test or COVID-19 diagnosis. Initial determinations of
+where SARS-CoV-2 positive have been on campus are used by the COVID-19 Response Team to
+quickly activate disinfection and closure procedures. To effectively identify people who may have
+been in contact with the SARS-CoV-2 positive person, both a manual tracing (interview) and
+digital tracing solution is strongly recommended. The University of Denver will engage an appbased digital contact tracing solution, which will allow tracking of contacts using Bluetooth Low
+Energy (BLE) technology, badging, and WiFi technology. Top considerations in this decision are
+our community’s security and privacy. The final decision regarding a contact tracing vendor and
+details on the solution and its security will be shared by July 31st .
+10
+Manual Tracing
+Manual Contact tracing has been conducted at DU since the first positive case on March 13,
+2020. Because there were fewer than 20 positive cases on campus since March, manual
+tracing has been sufficient to address campus needs. Our first priority when an individual in
+our community falls ill is to support them in seeking medical attention and communicate our
+concern for their well-being. We also review with them the need to self-isolate and remain
+off-campus (or, for campus residents, to isolate them on campus). In each instance,
+interviews and follow-up conversations determine when and where the person who had tested
+positive or was presumed positive for SARS-CoV-2 had been on campus, with whom they
+might have come into contact, and whether that contact included physical proximity of within
+six feet for at least 10 minutes and whether the parties were wearing face coverings.
+Individuals who may have been in contact with the person are then called to discuss the
+possible contact and to provide them with information regarding the need to self-isolate and
+stay off campus. This high-touch manual tracing effort has occurred successfully at DU for
+our small number of cases, via designated University staff. As we increase the number of
+people with access to campus, additional manual contract tracers will be hired and trained,
+following guidance of our health partner and under the supervision of our deputized reporter
+for the Denver Department of Public Health and Environment, Chris Short. As needed for each
+case, additional individualized support will be provided by the Student Affairs and Inclusive
+Excellence (SAIE) team, the Health and Counseling Center (HCC), the Vice Provost for
+Academic Affairs, and / or Human Resources and Inclusive Community (HRIC), as appropriate.
+Digital Tracing
+Keeping the DU community safe and limiting spread from any potential cases requires fast
+and accurate contact tracing. Best practices for businesses, including university campuses,
+involve digital contact tracing. This can involve sensors and wearables, be app-based, or work
+from other existing technologies (scheduling software, Wi-Fi, badging). The DU campus has
+more than 90 buildings, 125 acres, and 17,000 people at full capacity. To effectively reduce
+the chance of an outbreak, we will engage a digital tracing vendor. Users will be asked to
+install an application on their mobile device. This tracking, alongside Wi-Fi and badge access
+will be used to quickly identify who a person has been in contact with should they test positive
+or be presumed positive for the virus causing COVID-19. We recognize the strong concerns
+of our community regarding data security and privacy and have intentionally focused on
+choosing a vendor that prioritizes these concerns. Data is stored securely and only
+temporarily, and location information is only accessed when someone is confirmed or
+expected positive for the virus that causes COVID-19. Individuals have control over whether
+the app runs in the background or foreground, have a user interface, and can disable the
+tracking, though this is not recommended. (For more information on privacy and information
+security, please see H. Privacy & Data Security.)
+
+Pre-arrival quarantine
+For 14 days before their arrival date, all students and visiting family members (for move-in
+only), faculty and staff are required to quarantine. During this time, you should remain home
+and avoid physical contact with others except those you live with.
+The behavior of those already on campus is expected to align with what we are strongly
+recommending for our students – following all social distancing and facial covering protocols,
+washing hands frequently, and not engaging in large group activities or settings.
+If you are unable to quarantine before returning to campus because it is not feasible due to
+other responsibilities, and in particular our students who may be working or in training during
+the weeks just prior to the return to campus. In such instances, we encourage minimal contact
+as much as possible. Avoid large gatherings and social events, maintain a six-foot distance
+between yourself and others, use a face covering, refrain from touching your face, and
+practice vigilant hand washing. These practices are essential during the duration of the
+pandemic, but they should be attended to particularly rigorously the 14 days before a return
+to campus.
+If you are arriving from abroad, regardless of your nationality, you are required to quarantine
+for 14 days upon arrival in the U.S.
+
+Symptom Monitoring
+During the 14 days before arrival, students will be required to answer questions regarding
+potential COVID-19 symptoms, exposure to the virus, and adherence to quarantine protocols
+each day. The symptom monitoring protocol will increase to twice daily once students have
+returned to campus and will continue for as long as they remain on campus.
+To accomplish this monitoring, everyone in the DU community is expected to download a
+smartphone app (on a phone, computer, or tablet) that will support daily symptom monitoring
+and allow us to quickly contact-trace should someone in our community test positive for
+COVID-19.
+Pre-arrival Testing
+Prior to arrival on campus, all students must take an RT-PCR test for the virus that causes
+COVID-19. We know that many of our law school students and faculty are returning to
+campus on August 17th, and to the Auraria Student Lofts beginning August 12th. We will
+work closely with you to enable a safe and timely return.
+If you will be in Denver | You may provide a validated negative molecular test result
+for the virus that causes COVID-19 from a location of your choosing collected during
+your 14-day quarantine window. If you prefer, you will be assigned a testing date and
+time via DU and our health partner, NJH, to take the test in Denver, administered by
+a trained medical professional. Your preference will be asked in the pioneerweb link
+13
+referenced above for arrival date. More information about how to submit your test
+results or to request a testing assignment in Denver will be forthcoming shortly.
+If you will be outside Denver | If you will be outside of the Denver metro area during
+the 14-days before your fall arrival date, we encourage you to complete a test at a
+testing location in your area and provide the verified results to us. Here is a link of
+locations where testing is available here.
+Testing on campus is free to students, faculty and staff. For those outside Denver, we will
+make emergency funds available to students for whom testing costs would pose an undue
+hardship.
+If you test positive, we strongly encourage you to immediately contact a healthcare provider
+and require you to delay your arrival on campus until:
+o Ten days have passed since your first symptoms; and
+o You are fever-free for 24 hours (without medication); and
+o Symptoms have improved; or if asymptomatic, 10 days have passed since
+your positive test result and you have not developed symptoms consistent
+with a COVID infection
+If you test negative, you may return to campus on your selected return date as planned,
+having followed all quarantine protocols listed above. Proof of a negative test and adherence
+to symptom and quarantine monitoring will be required in order to bypass the testing and
+quarantine protocols upon return to campus.
+If you have been exposed to someone known or presumed to have COVID-19, this will trigger
+the same requirements as a positive test, including delaying your travel and return to campus
+for 14 days.
+Travel Requirements
+Travel requirements: During your travel to campus, everyone is expected to take careful
+precautions, including wearing a face covering at all times, practicing excellent hand hygiene,
+avoiding face touching and, wherever possible, maintaining a six-foot distance from others.
+All community members are expected to follow our existing travel restrictions— specifically
+the restrictions against international travel or to any location considered a “hotspot” Hyperlink
+for the duration of the fall term. If you must travel to these locations, you will need to remain
+off campus and follow the quarantine guidelines outlined above for 14 days.
+Once You are on Campus
+If you follow the university protocols, test negative and are free of symptoms you can expect
+to be in your classes as anticipated and enjoy your face-to-face experiences observing all
+social distancing and facial covering protocols, as well as other stated precautions.
+If you were not able to meet all the pre-arrival requirements including testing, you will be
+required to take an RT-PCR test on your first day on campus. DU will administer these tests 
+14
+in coordination with NJH. Until test results are received, students will be required to quarantine
+either in their dorm room if in a single, or in an off-campus house or apartment if they have
+their own bedroom. To be connected to area hotels with discounted University rates, please
+contact COVIDcoordinator@du.edu.
+Regular testing and contact tracing: We will re-test high-risk individuals (athletes, those
+living in multi-person rooms in on- or off-campus housing, etc.) within seven days after their
+arrival on campus. This will be paid for by DU.
+Additionally, we will conduct random surveillance testing of students, faculty and staff each
+week, again, at no charge to individuals. This ongoing testing across the term is an
+important step to monitor and protect our community.
+Prevention
+Personal Hygiene
+Practicing personal hygiene and wearing face coverings in combination with maintaining
+proper physical distance from others is critical to preventing the spread of the virus on
+campus. Community responsibility includes reminding peers and colleagues to practice
+personal hygiene and wear personal protective equipment.
+Hygiene measures
+• Wash your hands often with soap and water for at least 20 seconds especially
+after you have been in a public place, or after blowing your nose, coughing, or
+sneezing.
+• If soap and water are not readily available, use a hand sanitizer that
+contains at least 60% alcohol. Cover all surfaces of your hands and rub
+them together until they feel dry.
+• Cough or sneeze into a tissue and dispose of used tissues immediately into a
+trash can. If you don't have a tissue, cough or sneeze into the crook of your
+elbow, not your hands.
+• Avoid touching your eyes, nose, and mouth.
+• Do not shake hands and avoid physical contact with others.
+• Eat away from others. Wipe down the eating space before and after the meal.
+• Supervisors should encourage breaks for employees to wash hands or use
+hand sanitizer.
+• Post signage to encourage good hygiene.
+15
+Personal Protective Equipment
+Personal protective equipment (PPE) is an important component of virus containment.
+Below are current PPE requirements.
+Face Coverings
+All University employees, students, and visitors are required to wear a face
+covering at all times while on campus (inside buildings and outside) to help
+prevent the spread of disease, except as provided below. Acceptable face
+coverings include those provided by DU, where available, and an individual’s
+face covering of choice, so long as it meets the applicable CDC and CO State
+recommendations. Individuals should maintain six-feet separation
+even when they are wearing face coverings. Face coverings should:
+• Cover the nose and mouth at all times
+• Fit snugly but comfortably against the face
+• Include multiple layers of fabric
+• Allow for breathing without restriction
+• Be disposable or be washable and machine dryable without being damaged
+or changing shape
+• Be looped around the ears or tied behind the head and neck
+• Remain in place until taken off safely
+• Be replaced with one that does not need to be frequently adjusted if the
+initial face covering moves during work
+• Be replaced when they become dirty, wet, and/or difficult to breathe
+through
+• Neck gaiters are currently not recommended
+Exceptions:
+• Individuals alone in single offices (with the door closed) are not required
+to wear face coverings.
+• Individuals may take off their face coverings to eat and drink as long as
+they remain 6 feet away from others.
+• An individual is not required to wear a face covering if it would inhibit the
+individual’s health, provided that employees who cannot wear face
+coverings for this reason provide DU with documentation. In these 
+16
+instances, DU will make every effort to assign such employees to duties
+that do not put them in close proximity with other employees or the public.
+Other Protective Equipment
+DU will provide gloves and other protective equipment as appropriate for an
+individual employee’s job duties. It is the department’s responsibility to
+provide gloves and PPE for task specific jobs as required by OSHA, CDC, or
+DDPHE.
+N95 masks are to be worn by University staff in response to a positive case.
+The use of the N95 mask requires a fit test through Environmental Health &
+Safety (EHS) and medical clearance to wear. 
