@@ -38,8 +38,6 @@ ADMINISTRATIVE CONTROLS
 
 Change interactions and environment
 
-Examples:
-
 Frequent classroom cleaning (5 days/week)
 Modified traffic flows and one-way paths within buildings
 EPA-approved disinfectant and hand sanitizer
