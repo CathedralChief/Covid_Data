@@ -16,6 +16,7 @@ with open('words.csv', 'r') as values:
         safety_dict[word] = ax1
         active_dict[word] = ax2
 values.close()
+
 # %%
 
 ntpath.basename('../College_Responses/')
@@ -42,7 +43,7 @@ for subdir, dirs, state in os.walk(responses):
         state_files.append(file_path)
 
 for college in state_files:
-    f = open(college, 'r', encoding='utf-8')
+    f = open(college, 'r', encoding='utf-8', errors='replace')
     college_contents = f.read()
     school = path_leaf(college)
     school = school.strip('.txt')
@@ -52,15 +53,17 @@ for college in state_files:
         word = word.lower()
         word = word.translate({ord(ch): '' for ch in '();,.?!0*""/:-'})
 
+        
+
         # Find the values for the word
-        if word in safety_dict:
+        if word not in safety_dict:
+            safe_value = 0
+        else:
             safe_value = int(safety_dict[word])
-        else:
-            safety_value = 0
-        if word in active_dict:
-            active_value = int(active_dict[word])
-        else:
+        if word not in active_dict:
             active_value = 0
+        else:
+            active_value = int(active_dict[word])
 
         # Keep track of running value for each school
         if school not in school_act_values:
