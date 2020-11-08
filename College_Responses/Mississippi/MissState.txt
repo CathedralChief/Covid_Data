@@ -1,0 +1,65 @@
+Mississippi State University plans to return to full campus operations and in-person instruction in August 2020. To do so, our safe operations plan will promote healthy operations and mitigate some risks of COVID-19 infection and spread among our students and employees. At this stage of the pandemic, we are all aware of the importance of taking personal responsibility for our own health AND understanding how our actions affect the health of our community. The details of our plans for screening, testing, and contact tracing are outlined here.
+
+Background Image Alternative Text: lee hall in distance with myrtle tree blossom
+Screening
+
+Screenings are non-intrusive health checks on a regular, consistent basis. Screenings will include temperature checks and self-reported health questionnaires based on Centers for Disease Control and Prevention and Mississippi State Department of Health suggestions. 
+
+Screening activities can be facilitated by the new Everbridge SAFETY CONNECTION platform discussed in more detail below along with temperature check-in stations such as those shown below which will be placed in locations across campus. 
+
+All residential students will be required to complete a temperature screening every 24 hours along with the self-reported health questionnaire. Residential students will be required to use the Everbridge SAFETY CONNECTION platform. 
+
+All non-residential students are strongly encouraged to complete a temperature screening and health questionnaire daily.
+
+All employees will be required to conduct a self-screening daily prior to coming to work. This should include an “at home” temperature check and a review of potential symptoms of COVID-19 including cough, shortness of breath or difficulty breathing, chills, muscle pain, sore throat, and a new loss of taste or smell. The CDC offers a self-screening tool at https://www.cdc.gov/coronavirus/2019-ncov/index.html for employees who would rather use that than the Everbridge SAFETY CONNECTION platform.
+
+If an employee has any of these symptoms or a fever of greater than 100.4 degrees, the employee should stay at home and may take EPSL (Emergency Paid Sick Leave), medical or personal leave unless the employee is able to telework and has a telework agreement on file. Guidance regarding this leave is available on the HRM website. 
+
+Testing
+
+Testing for COVID-19 has been and will continue to be facilitated through the Longest Student Health Center. PCR nasal swab is currently the standard for diagnosing acute infections. It should be the first test considered and likely the most accurate at this time. Where screening indicates a spread of COVID-19, community testing may be required. The Longest Student Health Center can facilitate additional types of COVID-19 testing when medically necessary.
+screen capture of everbridge safety connection
+Contact Tracing/Exposure Notification
+
+Having a reliable and secure mechanism for exposure tracking and notification is essential. The Everbridge SAFETY CONNECTION platform will provide MSU with an important tool that can aid in this process. The information available from this contact tracing technology will allow our health professionals to reach more people faster in the event of a confirmed exposure. Participation in this technology-facilitated exposure notification is voluntary but highly encouraged. The app is designed to protect individual user privacy. The app will alert participants if they have been in close contact with a person who has reported a positive COVID-19 test. 
+
+Additionally, a team of health professionals within the LSHC will facilitate communication with persons who this technology indicates may be symptomatic and with those who are close contacts of persons who have tested positive for COVID-19. This effort will be conducted in compliance with the Mississippi Department of Health and other federal and state guidance. 
+
+Everbridge
+SAFETY CONNECTION
+Platform
+
+Mississippi State University will use the Everbridge SAFETY CONNECTION platform to facilitate screening and contact tracing for students and employees.
+
+First the Student/employee completes self-check Everbridge SAFETY CONNECTION. If no symptoms, no contact - proceed with activities. If self-check issues concerns - follow instructions to stay at home or contact medical professional. Medical Advice to evaluate symptoms or exposure leads to testing and possible quarantine or return to activities.
+
+Everbridge flow chart, explanation text is above
+example kiosk used for testing
+Temperature Testing Kiosks
+
+Temperature testing kiosks will be placed in locations around campus to enable our students and employees to easily take their temperature throughout the day in a touchless manner. These kiosks guide individuals on where to stand and reports their temperatures within seconds.
+
+Medical Protocol Based upon Testing, Reported Symptoms, and/or Exposure
+Symptomatic 	Asymptomatic
+Symptomatic Confirmed Positive 	Symptomatic Confirmed Negative 	Asymptomatic Confirmed Positive 	Asymptomatic Close Contacts of COVID-19 Positive Cases
+
+Immediate isolation for a minimum of 10 days since symptoms began. You must be symptom free for at least the last 24 hours of the isolation. 
+
+Active monitoring by University Health Services. 
+	
+
+Immediate isolation until at least 24 hours have passed since last symptoms or fever without the use of fever-reducing medications.
+	
+
+Immediate 10-day isolation from date of test and compliance with local public health quarantine orders.
+
+Self-monitor for symptom development, check temperature (subjective or measured) twice daily.
+
+Active monitoring by University Health Services. 
+	
+
+Immediate 14-day self-quarantine regardless of test results unless released earlier by University Health Services.
+
+Self-monitor for symptom development, check temperature (subjective or measured) twice daily. 
+
+*14-day quarantine exists for asymptomatic close contacts to include the mean incubation period for the infection. The minimum time before a test may be considered should be no less than 4 days after suspected exposure.
