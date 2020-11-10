@@ -2,6 +2,7 @@
 import csv
 import ntpath
 import os
+import pandas as pd 
 # %%
 
 safety_dict = {}
@@ -17,15 +18,12 @@ with open('words.csv', 'r') as values:
         active_dict[word] = ax2
 values.close()
 
-# %%
-
 ntpath.basename('../College_Responses/')
 
 def path_leaf(path):
     head, tail = ntpath.split(path)
     return tail or ntpath.basename(head)
 
-#%%
 
 school_safe_values = {}
 school_act_values = {}
@@ -82,7 +80,6 @@ for college in state_files:
         if active_value != 0:
             school_act_count[school] += 1
 
-# %%
 school_norm_act_dict = {}
 for school in school_act_values:
     value = school_act_values[school]
@@ -102,4 +99,6 @@ print(school_norm_safe_dict)
 # %%
 for i in school_norm_act_dict:
     print(i, ': ', school_norm_act_dict[i])
+# %%
+act_df = pd.DataFrame.from_dict(list(school_norm_act_dict.items()), columns= ['School', 'Active Value'])
 # %%
