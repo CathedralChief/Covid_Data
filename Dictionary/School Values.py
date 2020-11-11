@@ -100,5 +100,12 @@ print(school_norm_safe_dict)
 for i in school_norm_act_dict:
     print(i, ': ', school_norm_act_dict[i])
 # %%
-act_df = pd.DataFrame.from_dict(list(school_norm_act_dict.items()), columns= ['School', 'Active Value'])
+act_df = pd.DataFrame.from_dict(list(school_norm_act_dict.items()))
+act_df.columns = ['School', 'Activity Values']
+safe_df = pd.DataFrame.from_dict(list(school_norm_safe_dict.items()))
+safe_df.columns = ['School', 'Safety Value']
+
+df = act_df.merge(safe_df, left_on='School', right_on='School')
+
+df.to_csv('../School_Values.csv')
 # %%
